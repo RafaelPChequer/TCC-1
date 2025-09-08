@@ -22,7 +22,3 @@ Além disso, a ferramenta se destaca por sua integração com ambientes de desen
 Como projeto interno proposto pelo estudante, o *VideoTestHub* não exige carta de interesse, conforme requerido para projetos com clientes externos. A principal restrição da Resolução de TCC I, que enfatiza automação e eficiência, é plenamente atendida pela capacidade da ferramenta de automatizar testes de vídeo chamadas, reduzindo o esforço manual e otimizando o processo de validação. O projeto será implementado com tecnologias acessíveis e amplamente adotadas: React para a interface, Node.js para o *backend*, Puppeteer para automação de testes e Jest para asserções. Essas escolhas evitam dependências proprietárias restritivas, garantindo que a ferramenta seja portátil e fácil de adotar. Todas as entregas seguirão os formatos especificados (*.md* para justificativa, *.pdf* para o Documento de Visão), atendendo aos padrões acadêmicos exigidos.
 
 O *VideoTestHub* está plenamente alinhado à Resolução de TCC I e ao Salão de Ferramentas do CBSoft, oferecendo uma solução inovadora para automação de testes em aplicações React de vídeo chamadas. A ferramenta melhora a eficiência no desenvolvimento e manutenção de software, beneficiando equipes ágeis, pesquisadores e a comunidade de desenvolvedores em geral. O próximo passo é a elaboração do Documento de Visão, detalhando escopo, usuários e necessidades, para a entrega de 03/09/2025.
-
-**Contagem de palavras**: 832
-
-</xaiArtifact>
